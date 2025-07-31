@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Danish Khan
+# Hi there 👋 I'm Mohd Rihan
 
 ## 💻 About Me
 - 🔭 I’m currently working on My Portfolio
