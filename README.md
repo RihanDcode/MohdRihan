@@ -1,21 +1,54 @@
-# Hi there 👋 I'm Mohd Rihan
+Hi there 👋
 
-## 💻 About Me
-- 🔭 I’m currently working on My Portfolio
-- 🌱 I’m currently learning MERN Stack / DSA
-- 👯 I’m looking to collaborate on Open Source Projects
-- 📫 How to reach me: dk5427454@gmail.com
-- ⚡ Fun fact: I solve DSA questions for fun and love to create projects
+I'm Mohd Rihan, a passionate engineer exploring the world of coding and open source.
 
-## 🛠️ Technologies & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-...
+📝 About Me
 
-## 📈 GitHub Stats
-![Danish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danish-khan&show_icons=true&theme=radical)
+🌱 I’m currently learning Web Development
 
-## 🔗 Connect with me
-[![LinkedIn]
-[![X]
+💻 I love building projects to improve my skills
+
+📚 I’m exploring Data Structures & Algorithms
+
+🎯 My goal is to contribute to open-source and build real-world applications
+
+🛠️ Technologies & Tools
+
+Here are some of the tools and technologies I'm working with:
+
+Frontend
+
+Backend
+
+Version Control
+
+HTML, CSS, JS
+
+Node.js, Express
+
+react(basics)
+
+Git, GitHub
+
+Python (Basics)
+
+VS Code
+
+🚀 Projects
+
+Here are a few projects I've built:
+
+Portfolio Website – A personal portfolio to showcase my projects and skills.
+
+Feel free to explore and give feedback!
+
+📫 Get in Touch
+
+📧 Email: dk5427454@gmail.com
+
+🌐 Portfolio: building
+
+💼 LinkedIn: https://www.linkedin.com/in/mohd-rihan-912759378/
+
+"Code is like humor. When you have to explain it, it’s bad." – Cory House
+
